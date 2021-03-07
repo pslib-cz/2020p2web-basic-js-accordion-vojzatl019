@@ -704,6 +704,7 @@ body {
 
 .detail-vypujcky-container {
     display: none;
+    height: 100%;
 }
 
 .detail-vypujcky-item {
